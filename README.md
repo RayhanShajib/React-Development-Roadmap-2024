@@ -48,10 +48,11 @@ Modern JavaScript
 Different ES6+ JS Syntaxes and concepts eg. Arrow function, Truthy/Falsy values, Ternary Operator, Different Array methods like find, filter, map, reduce, slice, splice, push, pop, concat, different looping strategies, Spread & Rest Operator, Array and Object Destructuring, Imports/Exports syntax, Template Literals, Sorting etc.
 Git/GitHub
 
-## Basics of Git
-
+-- Basics of Git
 Important Git Commands
-1. React Fundamentals
+
+## 1. React Fundamentals
+
 You should know and be comfortable with all of the following:
 
 ## Getting Started with React
